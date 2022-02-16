@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hailey Hoffman"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Stuff about me...
